@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Repository Link:** [https://github.com/rfuadur/ML-Flood-Prediction-Disaster-Response](https://github.com/rfuadur/ML-Flood-Prediction-Disaster-Response)
 
 ## 📌 Project Overview
 Floods are among the deadliest natural disasters, causing significant damage to infrastructure and human lives. Traditional hydrological models often struggle to capture the complex interactions between environmental factors.
